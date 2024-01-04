@@ -11,5 +11,6 @@ public class DemoA {
 
 	public static void sub(int a, int b){
 		System.out.println(a-b);
+		System.out.println("my name is Freshta jan");
 	}
 }
